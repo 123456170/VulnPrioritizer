@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+PyYAML
+opencv-python-headless
+Pillow
+packaging
